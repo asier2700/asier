@@ -250,3 +250,9 @@ acestream://b97f5975dbd067655432512d4693b417bc85a714
 
 #EXTINF:-1 tvg-id="SETANTA" tvg-logo="noimage.png" group-title="Otros deportes", SETANTA SPORTS 1080  7206
 acestream://72066549fbfd3f755853fe9467586b7debf01f60
+
+#EXTINF:119,Canal Cocina 4K (DRM)
+http://10.0.0.254:4022/udp/239.192.250.3:2000?payload=mp2t/rtp
+
+#EXTINF:120,Canal Cocina (DRM)
+http://10.0.0.254:4022/udp/239.192.250.212:2000?payload=mp2t/rtp
