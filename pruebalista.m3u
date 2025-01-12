@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLigaTV%20HD.png" group-title="Liga" tvg-id="M+ LaLiga TV HD", La liga TV BAR
 acestream://94d34491106e00394835c8cb68aa94481339b53f
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLigaTV%20HD.png" group-title="Liga" tvg-id="M+ LaLiga TV HD", Copa
+acestream://f6beccbc4eea4bc0cda43b3e8ac14790a98b61b4
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLigaTV%20HD.png" group-title="Liga" tvg-id="M+ LaLiga TV HD", La liga TV BAR 2
 acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 
